@@ -2,6 +2,7 @@
 
 ## О проекте
 Password Cracker - это мощное приложение для перебора паролей, разработанное с использованием Python. Проект включает в себя несколько вариантов приложений, предназначенных для разных сценариев использования.
+
 <video width="320" height="240" controls>
   <source src="Pnoz/Pnoz.mp4" type="video/mp4">
   Your browser does not support the video tag.
